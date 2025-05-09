@@ -1,0 +1,20 @@
+{
+    "token": "MTM0OTkyODkxMTE5MDA5ODA0Mg.GyecEx.Z6Rn7tyNBuiXdfSsJBg8Fr8dvRcnru7YjGDgHY",
+    "welcome_channel_id": 627874145085947956,
+    "twitch_client_id": "w177wxnv157q7zgbdv0fgl9rc7lpgb",
+    "twitch_client_secret": "ij17jsmxmx6ztv3vb7c6ywlr9iyqli",
+    "twitch_channel_name": "parlloan",
+    "live_notification_channel_id": 1363320061057564703,
+    "moderator_role_id": 1172403370166865921,
+    "mod_log_channel_id": 1363324459620110536,
+    "economy_log_channel_id": 1363330335395549354,
+    "economy_items": {
+        "cargo_vip": {"price": 500, "description": "Cargo VIP por 30 dias"},
+        "mensagem_personalizada": {"price": 100, "description": "Envia uma mensagem personalizada no canal #geral"},
+        "kick_voz": {"price": 1000, "description": "Expulsa um usuário de um canal de voz"},
+        "mute_voz": {"price": 2000, "description": "Muta um usuário em um canal de voz por 5 minutos"},
+        "mute_texto": {"price": 2000, "description": "Muta um usuário em canais de texto por 5 minutos"},
+        "cargo_personalizado": {"price": 2000, "description": "Cria um cargo personalizado por 7 dias"},
+        "canal_voz_privado": {"price": 3000, "description": "Cria um canal de voz privado por 24 horas"}
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "179440213460910080": {
+        "coins": 2641,
+        "name": "parlloan",
+        "achievements": {
+            "mensageiro": {
+                "completed": false,
+                "progress": 14
+            },
+            "voz_ativa": {
+                "completed": false,
+                "progress": 3900
+            },
+            "comprador": {
+                "completed": true,
+                "progress": 5
+            }
+        }
+    },
+    "1287178946898690070": {
+        "coins": 5797,
+        "name": "malenasouza",
+        "achievements": {
+            "mensageiro": {
+                "completed": false,
+                "progress": 0
+            },
+            "voz_ativa": {
+                "completed": false,
+                "progress": 3600
+            },
+            "comprador": {
+                "completed": false,
+                "progress": 0
+            }
+        }
+    }
+}
